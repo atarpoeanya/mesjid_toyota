@@ -2297,7 +2297,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-area .overlay-bg {
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(29, 29, 29, 0.369);
 }
 
 .banner-content {
@@ -3108,7 +3108,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .blog-banner-area .overlay-bg {
-  background: rgba(0, 0, 0, 0.55);
+  background: rgba(0, 0, 0, 0);
 }
 
 .blog-banner-wrap {
